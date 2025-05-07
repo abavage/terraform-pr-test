@@ -1,9 +1,1 @@
-terraform {
-  required_providers {
-    github = {
-      source = "integrations/github"
-      version = ">= 6.6.0"
-    }
-  }
-}
 name: efs-1234asc
